@@ -1,0 +1,19 @@
+{
+  "name": "getgithubjsers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shaomingquan <1218525419@qq.com> (http://shaomingquan.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "he": "^1.1.1",
+    "level": "^3.0.1",
+    "lru-cache": "^4.1.1",
+    "node-fetch": "^1.7.3"
+  }
+}
